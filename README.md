@@ -172,24 +172,6 @@ Data preparation for the project included:
 - Data normalization
 - Training data preparation
 
-## Project Structure
-
-```text
-projectA/
-├── database/          # MySQL database
-├── model/             # Machine Learning models
-├── screenshots/       # Application screenshots
-├── css/               # Stylesheets
-├── img/               # Images and assets
-├── index.php          # Home page
-├── dataset.php        # Fisheries dataset
-├── environment.php    # Marine environmental data
-├── weather.php        # Weather data
-├── classification.php # Random Forest Classification
-├── clustering.php     # K-Means Clustering
-└── ...
-```
-
 ## About This Project
 
 This project was developed as a university group project to apply **Machine Learning, Data Analysis, Database Management, and Web Development** to fisheries and environmental data.
