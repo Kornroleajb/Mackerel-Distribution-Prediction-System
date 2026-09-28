@@ -152,7 +152,6 @@ Data preparation for the project included:
 - Development of Archive pages
 - Database integration for historical data
 - Home page development
-- Profile page development
 
 ### Sattaya Pokkaew
 **Regression / Data Analyst**
