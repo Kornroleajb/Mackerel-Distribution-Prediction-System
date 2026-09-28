@@ -75,7 +75,6 @@ The system combines several types of data for analysis:
 - Python
 - PHP
 - MySQL
-- HTML
 - CSS
 - JavaScript
 - Bootstrap
